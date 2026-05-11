@@ -1,0 +1,61 @@
+Weekly Progress Report
+Name: Mantasha Md Anish Shaikh
+Domain:Core Smart City Analytics
+Date of submission:28/04/2026
+Week Ending: 03
+I. Overview:
+This week, the primary focus was on understanding the Smart City Traffic Forecasting
+problem and working with time series data using Python. Efforts were made to explore
+the dataset, perform preprocessing, and begin initial analysis of traffic patterns across
+different junctions. Additionally, learning resources were utilized to strengthen
+knowledge in data analysis and forecasting techniques.
+II. Achievements:
+1. Project Familiarization:
+Understood the problem statement of forecasting traffic patterns for smart city
+development.
+Explored the dataset structure, including features such as DateTime, Junction, and
+Vehicles.
+Identified the importance of traffic variation based on time, weekdays, and special events.
+2. Python Project Contributions:
+Name of the project: Forecasting of Smart City Traffic Patterns
+Loaded and processed both training and testing datasets using Python.
+Performed data cleaning, including handling missing values and formatting DateTime.
+Implemented feature engineering by extracting hour, day, month, and weekday.
+Conducted basic exploratory data analysis to visualize traffic trends.
+3. Learning Python:
+Gained hands-on experience with Python libraries such as Pandas, NumPy, Matplotlib,
+and Seaborn.
+Learned time series data handling and preprocessing techniques.
+Applied Python skills to analyze real-world traffic data
+III. Challenges:
+1. Data Handling:
+Faced difficulty in understanding time series data structure and resampling techniques.
+Encountered issues in managing DateTime format and missing values.
+2. Model Understanding:
+Found it challenging to understand the working of time series forecasting models such as
+ARIMA.
+Required additional effort to interpret traffic patterns and trends correctly.
+IV. Learning Resources:
+1. Project Documentation:
+Referred to dataset description and problem statement for better understanding.
+Used online tutorials to learn time series analysis concepts.
+2. Python Learning Resources:
+Followed online courses and YouTube tutorials on Python for data science.
+Practiced coding examples related to data preprocessing and visualization.
+Explored documentation of Pandas and Matplotlib libraries.
+V. Next Week's Goals:
+1. Model Development:
+Implement ARIMA model for traffic forecasting.
+Train models for each junction separately.
+Evaluate model performance using appropriate metrics.
+2. Project Enhancement:
+Improve data visualization for better insights.
+Start working on prediction using test dataset.
+Optimize model parameters for better accuracy.
+VI. Additional Comments:
+Project Links:
+GitHub Repository:
+https://github.com/mantasha20Shaikh-droid/upskillcampus
+Goggle Colab Code:
+https://colab.research.google.com/drive/1niuhZnnkFcUhwlRDFneIaK4UivfSfpl9#scrollT
+o=5tyP-mSCBJC

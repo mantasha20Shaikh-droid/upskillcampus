@@ -1,0 +1,70 @@
+
+Weekly Progress Report
+
+Name: Mantasha Anish Shaikh
+Domain: AI & Data Analytics
+Date of Submission: 17 April 2026
+Week Ending: 01
+
+I. Overview:
+This week focused on understanding the USC_TIA framework and contributing to Python-based machine learning projects. Special emphasis was given to agricultural crop production prediction using real-world datasets. Additionally, learning resources were utilized to strengthen Python and data analytics skills.
+
+II. Achievements:
+
+1. USC_TIA Familiarization:
+- Explored USC_TIA documentation to understand its core concepts and workflow.
+- Successfully performed initial tasks and gained basic operational understanding.
+
+2. Python Project Contributions:
+Name of the Project: Prediction of Agriculture Crop Production in India
+- Developed and worked on a machine learning model for predicting crop production.
+- Performed data preprocessing, cleaning, and feature selection.
+- Implemented models using Python libraries like Pandas, NumPy, and Scikit-learn.
+- Maintained the project repository on GitHub.
+
+GitHub Repository:
+https:https://github.com/mantasha20Shaikh-droid/upskillcampus
+
+Google Colab Notebook:
+https://colab.research.google.com/drive/12BhoHyfr-Jv5C9JGkW4bK4ssKqA9y6vI
+
+3. Learning Python:
+- Gained hands-on experience with Pandas, NumPy, Matplotlib, and Scikit-learn.
+- Applied machine learning techniques to real-world agricultural datasets.
+- Improved understanding of regression models and data visualization.
+
+III. Challenges:
+
+1. USC_TIA Integration:
+- Faced difficulties while integrating USC_TIA with Python-based workflows.
+- Currently working on debugging and understanding compatibility issues.
+
+2. Python Project Complexity:
+- Encountered challenges in model selection and improving prediction accuracy.
+- Needed deeper understanding of advanced ML concepts like hyperparameter tuning.
+
+IV. Learning Resources:
+
+1. USC_TIA Documentation:
+- Used official documentation for guidance and troubleshooting.
+- Referred to online tutorials and videos for better understanding.
+
+2. Python Learning Resources:
+- Learned through YouTube tutorials and online courses.
+- Practiced coding through real dataset projects and experimentation.
+
+V. Next Week's Goals:
+
+1. USC_TIA Enhancement:
+- Resolve integration issues and explore advanced features.
+- Actively participate in discussions and collaborative improvements.
+
+2. Python Project Development:
+- Improve model accuracy using better algorithms and tuning techniques.
+- Work on visualization and deployment (Flask/Streamlit).
+- Take feedback from mentors to refine the project.
+
+VI. Additional Comments:
+- Built a strong foundation in machine learning workflow.
+- The project is progressing well with continuous improvements planned.
+- Next focus will be on model optimization and deployment.

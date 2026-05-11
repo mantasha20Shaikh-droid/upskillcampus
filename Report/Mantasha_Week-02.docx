@@ -1,0 +1,89 @@
+Weekly Progress Report
+
+
+Name: Mantasha Anish Shaikh
+Course: BCA – AI & Data Analytics
+Domain: Predictive Maintenance
+Date of Submission: April 2026
+
+Week Ending: 02
+
+I. Overview
+
+This week focused on developing and analyzing multiple predictive maintenance projects aimed at estimating equipment failures using machine learning techniques. The work involved handling real-world industrial datasets, including turbofan engines, bearings, and gearbox systems. Additionally, efforts were made to strengthen practical knowledge in time-series analysis and predictive modeling.
+
+II. Achievements
+
+1. Project Development & Implementation
+Successfully worked on multiple predictive maintenance projects using real-world datasets.
+Applied machine learning techniques to analyze equipment health and predict failures.
+Built models for Remaining Useful Life (RUL) prediction and fault detection.
+
+2. Project Contributions
+Project 6: Turbofan Engine RUL Prediction
+Developed a model to predict Remaining Useful Life using multivariate time-series sensor data.
+Worked with datasets containing multiple engine cycles and degradation patterns.
+Understood operational variability and sensor noise handling.
+Dataset Highlights:
+26 features including operational settings and sensor readings
+Multiple dataset variants (FD001–FD004) with different conditions and faults
+Project 7: Bearing Life Prediction
+Analyzed vibration signal data collected from bearing systems.
+Worked with high-frequency time-series data (20 kHz sampling rate).
+Identified fault patterns such as inner race, outer race, and roller defects.
+Project 8: Gearbox Fault Prediction
+Implemented fault classification models using vibration sensor data.
+Studied gearbox behavior under different load conditions.
+Classified machine conditions into healthy and faulty states.
+
+3. Learning & Skill Development
+Gained hands-on experience with:
+Python programming
+Data analysis using Pandas and NumPy
+Machine learning using Scikit-learn
+Data visualization using Matplotlib and Seaborn
+Improved understanding of time-series data processing and predictive modeling techniques.
+
+III. Challenges
+
+1. Data Handling Challenges
+Managing large-scale time-series datasets
+Handling missing values and noisy sensor data
+2. Model Development Challenges
+Selecting relevant features from high-dimensional data
+Improving model accuracy and avoiding overfitting
+Understanding complex degradation patterns
+
+IV. Learning Resources
+
+1. Technical Resources
+Used online tutorials and documentation for machine learning and data analysis
+Explored time-series modeling techniques and predictive maintenance strategies
+2. Practical Learning
+Worked on real-world datasets from industrial systems
+Applied concepts through hands-on implementation in projects
+
+V. Next Week’s Goals
+
+1. Model Enhancement
+Improve model accuracy using advanced algorithms
+Perform hyperparameter tuning and optimization
+2. Project Improvement
+Enhance data preprocessing and feature engineering
+Explore deep learning approaches for predictive maintenance
+3. Documentation & Deployment
+Organize project files and improve documentation
+Prepare GitHub repository and final reports
+VI. Additional Comments
+This week provided valuable experience in applying machine learning to real-world industrial problems. The projects helped in understanding how predictive maintenance can reduce costs, improve efficiency, and prevent unexpected failures. Continuous learning and experimentation are improving both technical skills and problem-solving ability.
+
+🔗 Project Links
+GitHub Repository:
+
+https://github.com/mantasha20Shaikh-droid/upskillcampus
+
+Google Colab Notebook:
+https://colab.research.google.com/drive/10S37LRZ7T6_cKUk_oLEpnI4YzDNm3Bvj
+
+ Conclusion
+These projects demonstrate the practical implementation of machine learning in predictive maintenance. By analyzing sensor data and identifying failure patterns, it becomes possible to predict equipment breakdowns in advance and optimize maintenance strategies effectively.

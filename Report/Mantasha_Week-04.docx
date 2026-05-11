@@ -1,0 +1,82 @@
+Weekly Progress Report
+Name: Mantasha Md Anish Shaikh
+Domain:Industrial Manufacturing and Production
+Date of submission:04/05/2026
+Week Ending: 04
+I. Overview:
+This week focused on understanding real-world industrial datasets related to mining and
+manufacturing processes. Work was done on two major projects: Quality Prediction in a
+Mining Process and Multi-stage Continuous Flow Manufacturing Process.
+The primary objective was to analyze process data, understand feature relationships, and
+prepare datasets for predictive modeling. Special attention was given to time-series data,
+process variables, and industrial sensor data.
+II. Achievements:
+1. Project Familiarization:
+Understood the flotation process used in mining industries.
+Learned how silica impurity affects ore quality and production efficiency.
+Studied continuous manufacturing systems with parallel and series machine stages.
+Identified key variables affecting output quality in both datasets.
+2. Python Project Contributions:
+Project 10: Quality Prediction in Mining Process
+Loaded dataset with time-based sampling (20 sec + hourly data).
+Performed data cleaning (missing values, timestamp formatting).
+Identified important features affecting silica percentage.
+Conducted correlation analysis between Iron Concentrate and Silica.
+Prepared dataset for predictive modeling (target: % Silica Concentrate).
+Project 11: Continuous Manufacturing Process
+Understood multi-stage process (Machines 1–5).
+Analyzed parallel + series workflow structure.
+Explored sensor measurements from 15 locations.
+Preprocessed high-frequency (1 Hz) industrial data.
+Identified primary and secondary output prediction targets.
+3. Learning Python & Data Science:
+Gained hands-on experience with:
+Pandas (data preprocessing)
+NumPy (numerical operations)
+Matplotlib & Seaborn (visualization)
+Learned:
+Time-series analysis for industrial data
+Feature engineering for sensor-based datasets
+Correlation and trend analysis
+III. Challenges:
+1. Data Complexity:
+Handling mixed sampling rates (seconds vs hourly data).
+Managing large datasets with multiple sensor readings.
+Difficulty in aligning time-series data.
+2. Model Understanding:
+Understanding regression models for industrial prediction.
+Dealing with highly correlated features (Iron vs Silica).
+Deciding whether to include/exclude certain variables.
+IV. Learning Resources:
+1. Project Documentation:
+Reviewed dataset descriptions and industrial process workflows.
+Studied flotation process and manufacturing pipeline concepts.
+2. Python Learning Resources:
+Online tutorials on:
+Time-series forecasting
+Regression models (Linear Regression, Random Forest)
+Practiced real dataset preprocessing and visualization
+  V. Next Week's Goals:
+1. Model Development:
+Build prediction models:
+Linear Regression
+Random Forest
+XGBoost
+Predict:
+% Silica Concentrate
+Manufacturing output variables
+2. Advanced Analysis:
+Predict silica values minutes/hours ahead
+Test model performance without Iron Concentrate feature
+Perform feature importance analysis
+3. Project Enhancement:
+Improve visualizations (heatmaps, trend graphs)
+Optimize models for better accuracy
+Begin real-time prediction simulation
+VI. Additional Comments:
+Project Links:
+GitHub Repository:
+https://github.com/mantasha20Shaikh-droid/upskillcampus
+/tree/main
+Goggle Colab Code:
+https://colab.research.google.com/drive/1142rCTLkx9GLUqgKWYWLAlqsrUikuQmH
